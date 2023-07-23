@@ -19,4 +19,4 @@ app.use(express.static('public'));
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
-app.listen(PORT, () => console.log(`Listening on the followeing PORT: ${PORT}!`));
+app.listen(PORT, () => console.log(`Listening on the following PORT: ${PORT}!`));
