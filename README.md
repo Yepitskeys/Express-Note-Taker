@@ -20,5 +20,9 @@ Authors
 
 ## Screenshots
 
+<img width="1434" alt="screenshotman" src="https://github.com/Yepitskeys/Express-Note-Taker/assets/120697653/1c5ac8ce-4f13-444c-bab4-654214f77db3">
+
+<img width="1420" alt="screenshot" src="https://github.com/Yepitskeys/Express-Note-Taker/assets/120697653/47cd3be4-45ca-4cd8-9ae0-ec1df6a49020">
+
 ## Repository
 https://github.com/Yepitskeys/Express-Note-Taker
