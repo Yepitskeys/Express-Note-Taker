@@ -1,5 +1,6 @@
 const router = require("express").Router();
 const store = require("../db/db.json");
+const fs = require('fs');
 let notes = require('../db/db.json');
 const { v4: uuidv4 } = require('uuid');
 
@@ -32,7 +33,6 @@ router.post('/notes', (req, res) => {
         };
 
         console.log(response);
-        res.status(201).json(response);
     } 
 });
 
